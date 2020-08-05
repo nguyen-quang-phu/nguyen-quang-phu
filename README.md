@@ -36,13 +36,11 @@
 <br />
 
 ### Connect with me:
-
-[<img align="left" alt="facebook" height="22px" target="_blank" title="Facebook" src="https://image.flaticon.com/icons/svg/174/174848.svg" />][facebookLink]
-[<img align="left" alt="gmail" height="22px" target="_blank" title="Gmail" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][emailLink]  
-
-
-
+<a href="https://www.facebook.com/nqphu1998" target="_blank">
+<img align="left" alt="facebook" height="22px"  title="Facebook" src="https://image.flaticon.com/icons/svg/174/174848.svg" />
+</a>
+<a href="mailto:nqphu1998@gmail.com" target="_blank">
+<img align="left" alt="gmail" height="22px" target="_blank" title="Gmail" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+</a>
 
 [fitWebsite]: https://www.fit.hcmus.edu.vn/vn/
-[facebookLink]:https://www.facebook.com/nqphu1998
-[emailLink]: mailto:nqphu1998@gmail.com
