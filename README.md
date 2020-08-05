@@ -26,9 +26,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="facebook" height="22px" src="https://image.flaticon.com/icons/svg/174/174848.svg" />][facebookLink]
-&nbsp;
-[<img  alt="gmail" height="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][emailLink]  
+[<img align="left" alt="facebook" height="22px" title="Facebook" src="https://image.flaticon.com/icons/svg/174/174848.svg" />][facebookLink]
+[<img  alt="gmail" height="22px" title="Gmail" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][emailLink]  
 
 <br />
 
