@@ -30,7 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu1612508&hide=jupyter+notebook" />
 </a>
 
-<a href="https://github.com/natterstefan/natterstefan">
+<a href="https://github.com/phu1612508/phu1612508">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phu1612508&show_icons=true&line_height=27&count_private=true" alt="Catalin's GitHub Stats" />
 </a>
 <br />
