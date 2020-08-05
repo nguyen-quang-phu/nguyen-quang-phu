@@ -24,19 +24,21 @@
 <br />
 <br />
 
+
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phu1612508&hide=jupyter+notebook" />
+</a>
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phu1612508&show_icons=true&line_height=27&count_private=true" alt="Catalin's GitHub Stats" />
+</a>
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="facebook" height="22px" target="_blank" title="Facebook" src="https://image.flaticon.com/icons/svg/174/174848.svg" />][facebookLink]
 [<img align="left" alt="gmail" height="22px" target="_blank" title="Gmail" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][emailLink]  
-
-<br />
-
-<img align="left" alt="phu1612508's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phu1612508&show_icons=true&hide_border=true" />
-
-
-<br />
-
-
 
 
 
