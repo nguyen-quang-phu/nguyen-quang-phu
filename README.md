@@ -1,7 +1,8 @@
 ### Hi there, I'm Phu 👋
 
 ## I'm a Developer!
-- 🎓 I studied computer science in [HCMUS][fitWebsite] from 2016-2020
+- 🎓 I studied computer science in [HCMUS][fitWebsite] from 2016-2020.
+- 👨‍💻 I am learning to become a complete backend developer.
 
 
 
