@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 - 🎓 I studied computer science in [HCMUS][fitWebsite] from 2016-202?.
-- 👨‍💻 I am learning to become a complete backend developer.
+- 👨‍💻 I am learning to become a complete software engineer.
 
 
 
