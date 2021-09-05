@@ -54,11 +54,11 @@
 
 
 ## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/phu1612508/phu1612508">
+<a href="https://github.com/nguyen-quang-phu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-quang-phu" />
 </a>
 
-<a href="https://github.com/phu1612508/phu1612508">
+<a href="https://github.com/nguyen-quang-phu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyen-quang-phu&show_icons=true&line_height=27" alt="Catalin's GitHub Stats" />
 </a>
 <br />
