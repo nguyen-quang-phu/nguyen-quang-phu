@@ -22,7 +22,7 @@
 <img align="left" alt="Aios" width="26px" title="Axios" src="https://axios-http.com/assets/favicon.ico" />
 <img align="left" alt="Formik" width="26px" title="Formik" src="https://formik.org/images/favicon.png" />
 <img align="left" alt="I18next" width="26px" title="I18next" src="https://gblobscdn.gitbook.com/spaces%2F-L9iS6Wm2hynS5H9Gj7j%2Favatar.png?alt=media" />
-<img align="left" alt="Material UI" width="26px" title="Material UI" src="https://material-ui.com/static/favicon.ico" />
+<img align="left" alt="Material UI" width="26px" title="Material UI" src="https://mui.com/static/favicon.ico" />
 
 <br />
 
