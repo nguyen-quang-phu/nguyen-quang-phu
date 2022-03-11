@@ -63,6 +63,9 @@
 </a>
 <br />
 
+## Daily dev:
+<a href="https://app.daily.dev/nqphu1998"><img src="https://api.daily.dev/devcards/26748a214ff344bf99320855696f880a.png?r=3j5" width="400" alt="Nguyễn Quang Phú's Dev Card"/></a>
+
 ### Connect with me:
 <a href="https://www.facebook.com/nqphu1998" target="_blank">
 <img align="left" alt="facebook" height="22px"  title="Facebook" src="https://image.flaticon.com/icons/svg/174/174848.svg" />
