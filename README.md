@@ -10,6 +10,7 @@
 <img align="left" alt="C/C++" width="26px" title="C/C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="JavaScript" width="26px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />  
 <img align="left" alt="Typescript" width="26px" title="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+<img align="left" alt="Ruby" width="26px" title="Ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
 <img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="26px" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SCSS" width="26px" title="SCSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -27,12 +28,13 @@
 <br />
 
 ### Backend:
+<img align="left" alt="Rails" width="26px" title="Rails" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
+<img align="left" alt="Nestjs" width="26px" title="Nestjs" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"/>
 <img align="left" alt="Express" width="26px" title="Express" src="https://expressjs.com/images/favicon.png"/>
-<img align="left" alt="Jason Web Token" width="26px" title="Jason Web Token" src="https://jwt.io/img/favicon/apple-icon-57x57.png"/>
 <img align="left" alt="Mongoose" width="26px" title="Mongoose" src="https://mongoosejs.com/docs/images/favicon/apple-icon-57x57.png"/>
-<img align="left" alt="Nodemailer" width="26px" title="Nodemailer" src="https://nodemailer.com/favicon-32x32.png"/>
+<img align="left" alt="Postgres" width="26px" title="Postgres" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <img align="left" alt="SocketIO" width="26px" title="SocketIO" src="https://socket.io/images/favicon.png"/>
-<img align="left" alt="Twilio" width="26px" title="Twilio" src="https://www.twilio.com/docs/static/img/favicons/favicon.188c4a31d.ico"/>
+
 
 
 <br />
