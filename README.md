@@ -57,7 +57,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/nguyen-quang-phu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-quang-phu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-quang-phu&hide=html" />
 </a>
 
 <a href="https://github.com/nguyen-quang-phu">
