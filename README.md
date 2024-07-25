@@ -3,7 +3,7 @@
 ## I'm a Developer!
 - 🎓 I studied computer science in [HCMUS][fitWebsite] from 2016-2021.
 - 👨‍💻 I am learning to become a complete software engineer.
-
+- ⌨️ I am interested in terminal, and am currently learning devops. Furthermore, I am also currently obsessed with [Nix](https://github.com/NixOS/nix), [Neovim](https://github.com/neovim/neovim) and keyboard.
 
 
 ### Languages:
@@ -41,6 +41,7 @@
 
 
 ### Tools:
+<img align="left" alt="Neovim" width="26px" title="Neovim" src="https://avatars.githubusercontent.com/u/6471485?s=48&v=4"/>
 <img align="left" alt="Google" width="26px" title="Google" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"/>
 <img align="left" alt="VSCode" width="26px" title="VSCode" src="https://code.visualstudio.com/favicon.ico"/>
 <img align="left" alt="Git" width="26px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
