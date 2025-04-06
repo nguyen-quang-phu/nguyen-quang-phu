@@ -216,7 +216,7 @@
 
   <p>
     <a href="https://github.com/nguyen-quang-phu?tab=followers">
-      <img src="https://img.shields.io/github/followers/Sa1f27?label=Followers&logo=GitHub&style=for-the-badge"
+      <img src="https://img.shields.io/github/followers/nguyen-quang-phu?label=Followers&logo=GitHub&style=for-the-badge"
         alt="GitHub Followers" />
     </a>
     <img src="https://img.shields.io/github/stars/nguyen-quang-phu?label=Stars&logo=GitHub&style=for-the-badge"
