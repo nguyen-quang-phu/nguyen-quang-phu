@@ -51,11 +51,11 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=nguyen-quang-phu&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 <p>
+    <a href="https://app.daily.dev/nqphu1998">
+    <img src="https://api.daily.dev/devcards/26748a214ff344bf99320855696f880a.png?r=3j5" width="400" height="500" alt="Nguyễn Quang Phú's Dev Card"/>
+  </a>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31x3nuzbmjgnvdzpu56pm4qbbowe&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x3nuzbmjgnvdzpu56pm4qbbowe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Playing" width="400" height="500">
-  </a>
-  <a href="https://app.daily.dev/nqphu1998">
-    <img src="https://api.daily.dev/devcards/26748a214ff344bf99320855696f880a.png?r=3j5" width="400" height="500" alt="Nguyễn Quang Phú's Dev Card"/>
   </a>
 </p>
 
